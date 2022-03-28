@@ -1,0 +1,65 @@
+img{
+    margin-left: 230px;
+
+}
+#abc{
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+position: absolute;
+margin-left: 180px;
+
+    
+}
+input{
+    width: 200px;
+    height: 30px;
+}
+#kkk{
+    display: block;
+    padding: 5px;
+}
+button{
+    border-radius: 3px;
+    width: 210px;
+    background-color:aqua;
+    height: 30px;
+}
+#mmm{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 30px;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+#hhh{
+    position: relative;
+    left: 43px;
+    
+}
+form{
+    margin: 70px;
+    position: relative;
+    bottom: 40px;
+    
+    
+}
+fieldset{
+    position: relative;
+    top: 70px;
+    right: 150px;
+    background-color: blanchedalmond;
+}
+#ttt{
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+#lll{
+    padding: 5px;
+}
